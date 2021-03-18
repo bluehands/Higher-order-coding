@@ -7,10 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="HelloWorld.bf" />
     <None Remove="schema.txt" />
   </ItemGroup>
 
   <ItemGroup>
+    <AdditionalFiles Include="HelloWorld.bf" />
     <AdditionalFiles Include="schema.txt" />
   </ItemGroup>
 
