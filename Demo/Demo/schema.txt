@@ -1,3 +1,4 @@
 int:Dumb
 bool:d
 string:Abenteuer
+bool:AmIOkay
